@@ -16,6 +16,7 @@ import java.util.Map;
  */
 public class LeetCode0500 {
 
+    // TODO 字母数组优化
     public String[] findWords(String[] words) {
         List<String> rs = new ArrayList<>();
         Map<Character, Integer> m = new HashMap<>();

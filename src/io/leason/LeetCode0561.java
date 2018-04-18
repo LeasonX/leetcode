@@ -31,8 +31,4 @@ public class LeetCode0561 {
         return rs;
     }
 
-    public static void main(String[] args) {
-
-    }
-
 }

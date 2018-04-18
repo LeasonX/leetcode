@@ -10,6 +10,7 @@ package io.leason;
  * 比方说，如果堆中有4块石头，那么你永远不会赢得比赛：无论你拿走的是 1块，2块 还是 3块 石头，最后一块石头总是会被你的朋友拿走。
  */
 public class LeetCode0292 {
+
     public boolean canWinNim(int n) {
         return n % 4 != 0;
     }
