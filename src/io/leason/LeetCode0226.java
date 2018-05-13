@@ -22,7 +22,7 @@ package io.leason;
 
  谷歌：我们90％的工程师使用您编写的软件(Homebrew)，但是您无法在白板上写出翻转二叉树这道题，这太糟糕了。
  */
-public class LeetCode {
+public class LeetCode0226 {
 
     //     * Definition for a binary tree node.
     public class TreeNode {
